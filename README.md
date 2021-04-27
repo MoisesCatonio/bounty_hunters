@@ -1,4 +1,4 @@
-# bounty_hunters
+# Bounty Hunter
 
 This project aims to provide a platform to connect project owners and programmers, allowing the first, and potential other users, to create a bounty and associate
 it to an issue. Solving that issue sucessfully allows the owner to send the bounty to the programmer that resolved it.
